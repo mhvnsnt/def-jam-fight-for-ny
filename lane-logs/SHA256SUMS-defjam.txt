@@ -1,0 +1,3 @@
+aa40b2ed070661f2c1e8777c4bfc1c6e8013a627cecc83778f6805deec55f7d6  defjam-ffny-ps2-iso.part-aa
+ab6d09353e9126f16c62d79f1a650f07ca5a697035f523da385b924762d1e4c6  defjam-ffny-ps2-iso.part-ab
+LOCAL_ISO_SHA256=fd829ffde333fa103b0fa37b35d23ea11ad3e4fd3a8f6bcac2e50ba7260ddc24
